@@ -1,10 +1,5 @@
 @charset "UTF-8";
 
-#conteudo {
-		width: 100%;
-		float: right;		
-		}
-
 figure {
     display: inline-block;
     border: 0px dotted gray;
