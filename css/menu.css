@@ -1,3 +1,4 @@
+
 div#menuhorizontal {
 	background-color: green;
 }
@@ -57,9 +58,3 @@ div#menuhorizontal .dropdown:hover .dropdown-content {
 div#menuhorizontal li#about {
 	float:right
 }
-
-
-
-
-
-
